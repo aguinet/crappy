@@ -1,7 +1,7 @@
 # crappy: Gandcrab v5.2 decryption scripts
 
 This repository contains Python3 scripts that can decrypt files encrypted with
-the Gandcrab 5.2 script. Please note that this is a proof-of-concept which
+the Gandcrab 5.2 ransomware. Please note that this is a proof-of-concept which
 could be used to make a proper "one-click" tool.
 
 It uses the RSA private master key released by FBI/Europol on 2019/07/15
